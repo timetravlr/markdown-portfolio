@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+The best skills are *languages* both **spoken** and *programming*
+
+The __boldness__ of two underscores is the same as two **asterixes**. :sparkle:
