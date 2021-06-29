@@ -1,1 +1,3 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+Replaced this with a camera like I used to have, **ages ago**.
+
+![Image of camera](https://littlevisuals.co/images/AE1.jpg?nf_resize=smartcrop&w=500&h=375)
